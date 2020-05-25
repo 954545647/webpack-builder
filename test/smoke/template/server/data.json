@@ -1,0 +1,637 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "no": "10794479274653092097",
+        "type": 2,
+        "mode": 1,
+        "uid": 1121775,
+        "status": 88,
+        "status_cn": "已完成",
+        "charge_type": 0,
+        "charge_type_cn": "",
+        "score": 3686091,
+        "finish_time": 1588959482,
+        "fee": {
+          "total": 6800,
+          "paid": 3400,
+          "discount": 3400,
+          "gift": 0
+        },
+        "discount": [],
+        "goods": [
+          {
+            "cover": "https://static001.geekbang.org/resource/image/f4/1e/f4b4ccf71ee85661a1f09390cf34b81e.jpg",
+            "name": "JavaScript核心原理解析",
+            "sku": 100039701,
+            "count": 1,
+            "amount": 6800,
+            "is_video": false
+          }
+        ],
+        "pay": [
+          {
+            "channel": 6,
+            "channel_cn": "账户余额"
+          }
+        ],
+        "invoice": {
+          "status": 2,
+          "status_cn": "未开具"
+        }
+      },
+      {
+        "no": "10317514777879040459",
+        "type": 2,
+        "mode": 1,
+        "uid": 1121775,
+        "status": 88,
+        "status_cn": "已完成",
+        "charge_type": 0,
+        "charge_type_cn": "",
+        "score": 3416921,
+        "finish_time": 1587573008,
+        "fee": {
+          "total": 6800,
+          "paid": 2400,
+          "discount": 3400,
+          "gift": 1000
+        },
+        "discount": [],
+        "goods": [
+          {
+            "cover": "https://static001.geekbang.org/resource/image/b8/1c/b85e7f6e5c5a42f8dabf1fb1807c971c.jpg",
+            "name": "玩转Git三剑客",
+            "sku": 100021601,
+            "count": 1,
+            "amount": 6800,
+            "is_video": true
+          }
+        ],
+        "pay": [
+          {
+            "channel": 6,
+            "channel_cn": "账户余额"
+          }
+        ],
+        "invoice": {
+          "status": 2,
+          "status_cn": "未开具"
+        }
+      },
+      {
+        "no": "10110086247140075751",
+        "type": 2,
+        "mode": 1,
+        "uid": 1121775,
+        "status": 88,
+        "status_cn": "已完成",
+        "charge_type": 0,
+        "charge_type_cn": "",
+        "score": 1747690,
+        "finish_time": 1572663135,
+        "fee": {
+          "total": 9900,
+          "paid": 4950,
+          "discount": 4950,
+          "gift": 0
+        },
+        "discount": [],
+        "goods": [
+          {
+            "cover": "https://static001.geekbang.org/resource/image/59/41/5930592a22614882646c595f441dad41.jpg",
+            "name": "浏览器工作原理与实践",
+            "sku": 100033601,
+            "count": 1,
+            "amount": 9900,
+            "is_video": false
+          }
+        ],
+        "pay": [
+          {
+            "channel": 6,
+            "channel_cn": "账户余额"
+          }
+        ],
+        "invoice": {
+          "status": 2,
+          "status_cn": "未开具"
+        }
+      },
+      {
+        "no": "10464282961942094898",
+        "type": 2,
+        "mode": 1,
+        "uid": 1121775,
+        "status": 88,
+        "status_cn": "已完成",
+        "charge_type": 0,
+        "charge_type_cn": "",
+        "score": 899868,
+        "finish_time": 1547609633,
+        "fee": {
+          "total": 6800,
+          "paid": 6800,
+          "discount": 0,
+          "gift": 0
+        },
+        "discount": [],
+        "goods": [
+          {
+            "cover": "https://static001.geekbang.org/resource/image/80/e2/80293b21a2cc9c02ccde5cec6838efe2.jpg",
+            "name": "重学前端",
+            "sku": 100023201,
+            "count": 1,
+            "amount": 6800,
+            "is_video": false
+          }
+        ],
+        "pay": [
+          {
+            "channel": 1,
+            "channel_cn": "微信"
+          }
+        ],
+        "invoice": {
+          "status": 2,
+          "status_cn": "未开具"
+        }
+      }
+    ],
+    "products": [
+      {
+        "id": 100039701,
+        "type": "c1",
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_sale_product": true,
+        "ucode": "66292B32F9960A",
+        "is_finish": true,
+        "total_length": 29953,
+        "nav_id": 1,
+        "nps_min": 12,
+        "update_frequency": "全集",
+        "last_chapter_id": 0,
+        "begin_time": 1573056000,
+        "end_time": 1888934400,
+        "is_preorder": false,
+        "bgcolor": "F6F7FB",
+        "is_include_preview": true,
+        "show_chapter": true,
+        "utime": 1589965125,
+        "is_dailylesson": false,
+        "title": "JavaScript核心原理解析",
+        "subtitle": "重构你对JavaScript语言的认知",
+        "ctime": 1573102704,
+        "unit": "27讲",
+        "cover": {
+          "square": "https://static001.geekbang.org/resource/image/f4/1e/f4b4ccf71ee85661a1f09390cf34b81e.jpg",
+          "rectangle": "https://static001.geekbang.org/resource/image/a6/48/a6c8ecd93024e4ba483bd3800dac3148.jpg"
+        },
+        "author": {
+          "name": "周爱民",
+          "intro": "《JavaScript语言精髓与编程实践》作者，南潮科技（Ruff）首席架构师",
+          "avatar": "https://static001.geekbang.org/resource/image/f4/1e/f4b4ccf71ee85661a1f09390cf34b81e.jpg"
+        },
+        "price": {
+          "market": 6800,
+          "sale": 5500,
+          "sale_type": 3,
+          "promo_end_time": 0
+        },
+        "path": {
+          "desc": "你将获得：深度解读JavaScript核心技术；JavaScript语言特性以及原理剖析；帮你构建语言知识结构体系；JavaScript的精进指南。",
+          "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e深度解读 JavaScript 核心技术；\u003c/li\u003e\n\u003cli\u003eJavaScript 语言特性以及原理剖析；\u003c/li\u003e\n\u003cli\u003e帮你构建语言知识结构体系；\u003c/li\u003e\n\u003cli\u003eJavaScript 的精进指南。\u003c/li\u003e\n\u003c/ul\u003e\n"
+        },
+        "article": {
+          "id": 0,
+          "count": 27,
+          "count_req": 24,
+          "count_pub": 27
+        },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "seo": {
+          "keywords": ["前端", "JavaScript"]
+        },
+        "study_service": [1, 2, 3, 4, 5, 14],
+        "extra": {
+          "sub": {
+            "count": 0,
+            "had_done": false
+          },
+          "fav": {
+            "count": 0,
+            "had_done": false
+          },
+          "rate": {
+            "article_count": 0,
+            "article_count_req": 0,
+            "is_finished": false,
+            "last_article_id": 0,
+            "rate_percent": 0,
+            "video_seconds": 0
+          },
+          "cert": {
+            "id": ""
+          },
+          "sharesale": {
+            "is": true,
+            "title": "周爱民 · JavaScript核心原理解析",
+            "data": "{\"original_pic_color\":\"595656\",\"original_pic_url\":\"https://static001.geekbang.org/resource/image/b4/ed/b47d642056c94862ea681fd1337253ed.jpg\",\"promo_pic_color\":\"595656\",\"promo_pic_url\":\"https://static001.geekbang.org/resource/image/e1/b6/e1e72baba95d80e7049f946b2b99abb6.jpg\",\"share_sale_guest_price\":0,\"share_sale_price\":1800}",
+            "is_shareget": false
+          },
+          "channel": {
+            "is": false,
+            "back_amount": 0
+          },
+          "nps": {
+            "status": 0,
+            "url": "https://jinshuju.net/f/kyZ77W"
+          },
+          "helper": [],
+          "tab": {
+            "comment": false
+          },
+          "group_buy": {
+            "success_ucount": 2,
+            "join_code": "",
+            "could_groupbuy": false,
+            "had_join": false,
+            "price": 5500,
+            "list": []
+          },
+          "any_read": {
+            "total": 3,
+            "count": 0
+          },
+          "modules": [],
+          "cid": 0,
+          "first_promo": {
+            "price": 990,
+            "could_join": false
+          }
+        }
+      },
+      {
+        "id": 100021601,
+        "type": "c3",
+        "is_core": true,
+        "is_video": true,
+        "is_audio": false,
+        "is_sale_product": true,
+        "ucode": "CF03C9C25883A0",
+        "is_finish": true,
+        "total_length": 32295,
+        "nav_id": 2,
+        "nps_min": 31,
+        "update_frequency": "全集",
+        "last_chapter_id": 0,
+        "begin_time": 1544025600,
+        "end_time": 1861804800,
+        "is_preorder": false,
+        "bgcolor": "FFFFFF",
+        "is_include_preview": true,
+        "show_chapter": true,
+        "utime": 1590134915,
+        "is_dailylesson": false,
+        "title": "玩转Git三剑客",
+        "subtitle": "带你深入掌握Git、GitHub和GitLab",
+        "ctime": 1544072002,
+        "unit": "62讲",
+        "cover": {
+          "square": "https://static001.geekbang.org/resource/image/b8/1c/b85e7f6e5c5a42f8dabf1fb1807c971c.jpg",
+          "rectangle": "https://static001.geekbang.org/resource/image/0b/e6/0bd3398a7819cae3ad92b34fa634ade6.jpg"
+        },
+        "author": {
+          "name": "苏玲",
+          "intro": "携程代码平台负责人",
+          "avatar": "https://static001.geekbang.org/resource/image/b8/1c/b85e7f6e5c5a42f8dabf1fb1807c971c.jpg"
+        },
+        "price": {
+          "market": 6800,
+          "sale": 5500,
+          "sale_type": 3,
+          "promo_end_time": 0
+        },
+        "path": {
+          "desc": "你将获得：深入理解Git工作原理；掌握Git的高级使用技巧；用GitHub进行团队项目代码管理；通过GitLab完成简单的DevOps流程。",
+          "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e深入理解 Git 工作原理；\u003c/li\u003e\n\u003cli\u003e掌握 Git 的高级使用技巧；\u003c/li\u003e\n\u003cli\u003e用 GitHub 进行团队项目代码管理；\u003c/li\u003e\n\u003cli\u003e通过 GitLab 完成简单的 DevOps 流程。\u003c/li\u003e\n\u003c/ul\u003e\n"
+        },
+        "article": {
+          "id": 0,
+          "count": 62,
+          "count_req": 62,
+          "count_pub": 62
+        },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "seo": {
+          "keywords": ["Git", "GitHub"]
+        },
+        "study_service": [1, 2, 3, 4, 5],
+        "extra": {
+          "sub": {
+            "count": 0,
+            "had_done": false
+          },
+          "fav": {
+            "count": 0,
+            "had_done": false
+          },
+          "rate": {
+            "article_count": 0,
+            "article_count_req": 0,
+            "is_finished": false,
+            "last_article_id": 0,
+            "rate_percent": 0,
+            "video_seconds": 0
+          },
+          "cert": {
+            "id": ""
+          },
+          "sharesale": {
+            "is": true,
+            "title": "苏玲 · 玩转Git三剑客",
+            "data": "{\"original_pic_color\":\"595656\",\"original_pic_url\":\"https://static001.geekbang.org/resource/image/36/32/3681019f8c51088d7f48cd64ce08f832.jpg\",\"promo_pic_color\":\"595656\",\"promo_pic_url\":\"https://static001.geekbang.org/resource/image/cc/93/cc50a746c412e4d4a90a818492cab293.jpg\",\"share_sale_guest_price\":0,\"share_sale_price\":1800}",
+            "is_shareget": false
+          },
+          "channel": {
+            "is": false,
+            "back_amount": 0
+          },
+          "nps": {
+            "status": 0,
+            "url": "https://jinshuju.net/f/JRoJFv"
+          },
+          "helper": [],
+          "tab": {
+            "comment": false
+          },
+          "group_buy": {
+            "success_ucount": 2,
+            "join_code": "",
+            "could_groupbuy": false,
+            "had_join": false,
+            "price": 5500,
+            "list": []
+          },
+          "any_read": {
+            "total": 0,
+            "count": 0
+          },
+          "modules": [],
+          "cid": 0,
+          "first_promo": {
+            "price": 990,
+            "could_join": false
+          }
+        }
+      },
+      {
+        "id": 100033601,
+        "type": "c1",
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_sale_product": true,
+        "ucode": "3F3D3F6E20209E",
+        "is_finish": true,
+        "total_length": 34230,
+        "nav_id": 1,
+        "nps_min": 19,
+        "update_frequency": "全集",
+        "last_chapter_id": 0,
+        "begin_time": 1564675200,
+        "end_time": 1572019200,
+        "is_preorder": false,
+        "bgcolor": "F6F7FB",
+        "is_include_preview": true,
+        "show_chapter": true,
+        "utime": 1590044261,
+        "is_dailylesson": false,
+        "title": "浏览器工作原理与实践",
+        "subtitle": "透过浏览器看懂前端本质",
+        "ctime": 1564729129,
+        "unit": "45讲",
+        "cover": {
+          "square": "https://static001.geekbang.org/resource/image/59/41/5930592a22614882646c595f441dad41.jpg",
+          "rectangle": "https://static001.geekbang.org/resource/image/2a/b0/2aa01da86c8fb550b32c79f8ca4f67b0.jpg"
+        },
+        "author": {
+          "name": "李兵",
+          "intro": "前盛大创新院高级研究员",
+          "avatar": "https://static001.geekbang.org/resource/image/59/41/5930592a22614882646c595f441dad41.jpg"
+        },
+        "price": {
+          "market": 9900,
+          "sale": 7900,
+          "sale_type": 3,
+          "promo_end_time": 0
+        },
+        "path": {
+          "desc": "你将获得：前端性能优化的底层逻辑；浏览器页面渲染的核心流程；JavaScript运行机制解析；浏览器网络及安全机制解析。",
+          "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e前端性能优化的底层逻辑；\u003c/li\u003e\n\u003cli\u003e浏览器页面渲染的核心流程；\u003c/li\u003e\n\u003cli\u003eJavaScript 运行机制解析；\u003c/li\u003e\n\u003cli\u003e浏览器网络及安全机制解析。\u003c/li\u003e\n\u003c/ul\u003e\n"
+        },
+        "article": {
+          "id": 0,
+          "count": 45,
+          "count_req": 38,
+          "count_pub": 45
+        },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "seo": {
+          "keywords": ["浏览器", "V8原理"]
+        },
+        "study_service": [1, 2, 3, 4, 5, 10, 13],
+        "extra": {
+          "sub": {
+            "count": 0,
+            "had_done": false
+          },
+          "fav": {
+            "count": 0,
+            "had_done": false
+          },
+          "rate": {
+            "article_count": 0,
+            "article_count_req": 0,
+            "is_finished": false,
+            "last_article_id": 0,
+            "rate_percent": 0,
+            "video_seconds": 0
+          },
+          "cert": {
+            "id": ""
+          },
+          "sharesale": {
+            "is": true,
+            "title": "李兵 · 浏览器工作原理与实践",
+            "data": "{\"original_pic_color\":\"595656\",\"original_pic_url\":\"https://static001.geekbang.org/resource/image/b7/dd/b7005ddd03030ce2397eb325b47dc3dd.jpg\",\"promo_pic_color\":\"595656\",\"promo_pic_url\":\"https://static001.geekbang.org/resource/image/bb/57/bb1ab590236a506fd51fc12cd6dcbe57.jpg\",\"share_sale_guest_price\":0,\"share_sale_price\":2400}",
+            "is_shareget": false
+          },
+          "channel": {
+            "is": false,
+            "back_amount": 0
+          },
+          "nps": {
+            "status": 0,
+            "url": "https://jinshuju.net/f/7DTe9n"
+          },
+          "helper": [],
+          "tab": {
+            "comment": false
+          },
+          "group_buy": {
+            "success_ucount": 2,
+            "join_code": "",
+            "could_groupbuy": false,
+            "had_join": false,
+            "price": 7900,
+            "list": []
+          },
+          "any_read": {
+            "total": 4,
+            "count": 0
+          },
+          "modules": [],
+          "cid": 0,
+          "first_promo": {
+            "price": 1990,
+            "could_join": false
+          }
+        }
+      },
+      {
+        "id": 100023201,
+        "type": "c1",
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_sale_product": true,
+        "ucode": "2B068EDEAFEB56",
+        "is_finish": true,
+        "total_length": 45013,
+        "nav_id": 1,
+        "nps_min": 25,
+        "update_frequency": "全集",
+        "last_chapter_id": 0,
+        "begin_time": 1546963200,
+        "end_time": 1564502400,
+        "is_preorder": false,
+        "bgcolor": "e3dddc",
+        "is_include_preview": true,
+        "show_chapter": true,
+        "utime": 1590078934,
+        "is_dailylesson": false,
+        "title": "重学前端",
+        "subtitle": "每天10分钟，重构你的前端知识体系",
+        "ctime": 1547107529,
+        "unit": "58讲",
+        "cover": {
+          "square": "https://static001.geekbang.org/resource/image/80/e2/80293b21a2cc9c02ccde5cec6838efe2.jpg",
+          "rectangle": "https://static001.geekbang.org/resource/image/3d/de/3d2579c24b8f41a137df15b8537502de.jpg"
+        },
+        "author": {
+          "name": "程劭非（winter）",
+          "intro": "前手机淘宝前端负责人",
+          "avatar": "https://static001.geekbang.org/resource/image/80/e2/80293b21a2cc9c02ccde5cec6838efe2.jpg"
+        },
+        "price": {
+          "market": 9900,
+          "sale": 7900,
+          "sale_type": 3,
+          "promo_end_time": 0
+        },
+        "path": {
+          "desc": "你将获得：告别零散技术点，搭建前端知识体系；打通JS、HTML、CSS、浏览器4大脉络；40+前端难点完全解答；大厂前端工程实战演练。",
+          "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e告别零散技术点，搭建前端知识体系；\u003c/li\u003e\n\u003cli\u003e打通JS、HTML、CSS、浏览器4大脉络；\u003c/li\u003e\n\u003cli\u003e40+前端难点完全解答；\u003c/li\u003e\n\u003cli\u003e大厂前端工程实战演练。\u003c/li\u003e\n\u003c/ul\u003e\n"
+        },
+        "article": {
+          "id": 0,
+          "count": 58,
+          "count_req": 49,
+          "count_pub": 58
+        },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "seo": {
+          "keywords": ["前端", "前端面试"]
+        },
+        "study_service": [1, 2, 3, 4, 5, 9, 10, 11, 13],
+        "extra": {
+          "sub": {
+            "count": 0,
+            "had_done": false
+          },
+          "fav": {
+            "count": 0,
+            "had_done": false
+          },
+          "rate": {
+            "article_count": 0,
+            "article_count_req": 0,
+            "is_finished": false,
+            "last_article_id": 0,
+            "rate_percent": 0,
+            "video_seconds": 0
+          },
+          "cert": {
+            "id": ""
+          },
+          "sharesale": {
+            "is": true,
+            "title": "程劭非（winter） · 重学前端",
+            "data": "{\"original_pic_color\":\"595656\",\"original_pic_url\":\"https://static001.geekbang.org/resource/image/26/ed/2637ab2a03136bb1301f1a2349cfdfed.jpg\",\"promo_pic_color\":\"595656\",\"promo_pic_url\":\"https://static001.geekbang.org/resource/image/b5/0a/b5eea079f2286b936bc3c05e73dff90a.jpg\",\"share_sale_guest_price\":0,\"share_sale_price\":2400}",
+            "is_shareget": false
+          },
+          "channel": {
+            "is": false,
+            "back_amount": 0
+          },
+          "nps": {
+            "status": 0,
+            "url": "https://jinshuju.net/f/KlNqmn"
+          },
+          "helper": [],
+          "tab": {
+            "comment": false
+          },
+          "group_buy": {
+            "success_ucount": 2,
+            "join_code": "",
+            "could_groupbuy": false,
+            "had_join": false,
+            "price": 7900,
+            "list": []
+          },
+          "any_read": {
+            "total": 4,
+            "count": 0
+          },
+          "modules": [],
+          "cid": 0,
+          "first_promo": {
+            "price": 1990,
+            "could_join": false
+          }
+        }
+      }
+    ],
+    "page": {
+      "more": false
+    }
+  },
+  "error": {},
+  "extra": {
+    "cost": 0.078438361,
+    "request-id": "5f169836235a5f42b2200f1f1bfc3af2@2@time"
+  }
+}
